@@ -13,14 +13,14 @@ A high-performance Go service for tracking and analyzing product views with asyn
 ## Prerequisites
 
 - Docker and Docker Compose
-- Go 1.21 or later (for local development)
+- Go 1.23 or later (for local development)
 
 ## Getting Started
 
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd product-views
+   cd Handpickd-Assignment
    ```
 
 2. **Start the services**
@@ -118,6 +118,3 @@ docker-compose down
 GET /health
 ```
 
-## License
-
-This project is licensed under the MIT License.
